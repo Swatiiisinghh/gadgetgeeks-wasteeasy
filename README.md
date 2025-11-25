@@ -42,7 +42,10 @@ We built a **Next.js based web application** that:
 
 This app is made for **everyone**, regardless of technical background.
 
----waste-to-energy-app/
+## 📁 Project Structure
+
+```text
+waste-to-energy-app/
 
 │
 ├── app/                           # Next.js App Router pages
@@ -91,7 +94,7 @@ This app is made for **everyone**, regardless of technical background.
 ├── tsconfig.json                  # TypeScript config
 ├── .gitignore                     # Ignore node_modules, .next, env files
 └── README.md                      # Project documentation
-
+```
 
 ## ✨ Key Features
 
