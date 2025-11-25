@@ -118,8 +118,8 @@ Shows how household waste can result in:
 ### ⭐ **4. Clean & Responsive UI**
 Built with modern UI components for smooth navigation.
 
-### ⭐ **5. Educational & Awareness Focused**
-Simple content designed for households, students, and communities.
+### ⭐ **5. Reward based system**
+User earn eco-points via active participation and then can shop from eco-shop which is entirely eco-friendly at a discounted price.
 
 ---
 
