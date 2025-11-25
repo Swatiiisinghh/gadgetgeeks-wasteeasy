@@ -42,7 +42,56 @@ We built a **Next.js based web application** that:
 
 This app is made for **everyone**, regardless of technical background.
 
----
+---waste-to-energy-app/
+
+│
+├── app/                           # Next.js App Router pages
+│   ├── dashboard/                 # User dashboard
+│   │   └── page.tsx               # Shows waste stats, charts, energy, CO₂ saved
+│   ├── log/                       # Manual waste logging form
+│   │   └── page.tsx
+│   ├── ai-classifier/             # Image upload + AI classification UI
+│   │   └── page.tsx
+│   ├── event/                     # Event Mode for marriages/functions
+│   │   └── page.tsx
+│   ├── map/                       # Mapbox-based nearby center finder
+│   │   └── page.tsx
+│   ├── api/                       # Serverless backend API routes
+│   │   ├── classify/route.ts      # Calls Gemini/OpenAI Vision for waste AI
+│   │   ├── waste/route.ts         # Save waste logs + energy calculations
+│   │   ├── events/route.ts        # Event waste processing + summary
+│   │   ├── centers/route.ts       # Returns NGO/recycling center list
+│   │   └── ecobot/route.ts        # Chatbot → AI Chat API handler
+│   └── layout.tsx                 # Root layout
+│
+├── components/                    # Reusable UI components
+│   ├── WasteFlowDiagram.tsx       # 2D Waste-to-energy flow visualization
+│   ├── EcoBot.tsx                 # Chatbot floating widget
+│   ├── Navbar.tsx                 # App navigation
+│   └── Charts/                    # Charts + widgets
+│       ├── WastePieChart.tsx
+│       ├── EnergyCard.tsx
+│       └── Co2SavedCard.tsx
+│
+├── lib/
+│   ├── supabase.ts                # Supabase client setup
+│   ├── energy.ts                  # Energy + CO₂ calculation helper
+│   └── centers.ts                 # Static list of recycling centers
+│
+├── public/                        # Static assets (icons, images)
+│   ├── icons/                     
+│   └── logo.png
+│
+├── styles/
+│   └── globals.css                # Tailwind + global styles
+│
+├── .env.local                     # API keys (Supabase, Gemini, Mapbox)
+│
+├── package.json                   # Dependencies + scripts
+├── tsconfig.json                  # TypeScript config
+├── .gitignore                     # Ignore node_modules, .next, env files
+└── README.md                      # Project documentation
+
 
 ## ✨ Key Features
 
