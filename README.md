@@ -118,9 +118,14 @@ Shows how household waste can result in:
 ### ⭐ **4. Clean & Responsive UI**
 Built with modern UI components for smooth navigation.
 
-### ⭐ **5. Reward based system**
+### ⭐ **5. Ecobot**
+Ecobot helps users in the hack by giving instant eco-friendly suggestions, guiding waste sorting, and rewarding sustainable actions with eco-points.
+
+### ⭐ **6. Reward based system**
 User earn eco-points via active participation and then can shop from eco-shop which is entirely eco-friendly at a discounted price.
 
+⭐ **6. Ecoshop**
+EcoShop is a sustainable marketplace where users can redeem their eco-points to get eco-friendly products at discounted prices
 ---
 
 ## 🎯 Target Audience
@@ -180,7 +185,7 @@ The architecture is designed to be **modular, scalable, and easily extendable**.
 3. Navigates through waste categories  
 4. Learns how each type is processed  
 5. Understands what energy can be produced  
-6. Gains knowledge on sustainability and better waste management  
+6. Gains knowledge on sustainability and better waste management ,earns eco-points and shops from eco-store.
 
 ---
 
@@ -214,6 +219,18 @@ The architecture is designed to be **modular, scalable, and easily extendable**.
 <img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/9d6b0a12-ceba-49af-a06c-ad89279e5ced" />----->
 <img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/44ddaed7-406e-4013-8b6d-f9dd6f8fe348" />----->
 <img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/9ff94acc-9e50-46d0-9249-79e620a633c3" />----->
+
+## 🖼️ VIDEO
+https://v0.app/chat/b/b_17Q5ZMIaV6v?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..aFA14ie3lIOar_qp.ELvCK0Ft8y87ejiAcg-YKSY2VXrCILESnH5fJlZoEDhnaXQkVLZKeG0eNqE.GdqrsDi5nqBU5bcDkUfbFA
+## 🔮 Future Scope
+- 🤖 **Smarter Ecobot with Image Scanning:** Users will be able to scan waste items for instant classification.
+- 🛒 **Expanded EcoShop Marketplace:** Add more eco-friendly brands and product categories.
+- 🌍 **Live Carbon & Impact Tracking:** Introduce real-time dashboards showing users’ sustainability impact.
+
+## 👥 Team Members & Roles
+- **Swati Singh** — Full-Stack Developer,Content & Documentation, UI/UX  
+- **Sakshi** — Research, Ideation, UI/UX
+
 
 
 
