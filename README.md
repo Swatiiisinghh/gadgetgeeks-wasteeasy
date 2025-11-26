@@ -207,7 +207,20 @@ The architecture is designed to be **modular, scalable, and easily extendable**.
 
 ## 🖼️ Screenshots
 
-*(Replace these placeholders with your screenshots later. I will adjust if you upload images.)*
+<img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/4141a53f-0fb5-4329-b15e-d6bc722e3d23" />   ----->
+<img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/a1cc2898-0233-4a32-a41b-be332c46ae79" />----->
+<img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/e16ca1bf-40a6-42f6-beca-771e16544282" />----->
+<img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/f1959f8f-6680-4821-8c96-6c58a4609291" />----->
+<img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/9d6b0a12-ceba-49af-a06c-ad89279e5ced" />----->
+<img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/44ddaed7-406e-4013-8b6d-f9dd6f8fe348" />----->
+<img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/9ff94acc-9e50-46d0-9249-79e620a633c3" />----->
+
+
+
+
+
+
+
 
 
 ---
