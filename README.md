@@ -249,3 +249,15 @@ git clone https://github.com/swatiiisinghh/gadgetgeeks-wasteeasy.git
 cd gadgetgeeks-wasteeasy
 npm install
 npm run dev
+## 🔐 Environment Variables
+
+Create a `.env.local` file in the root of the project and add the following:
+
+NEXT_PUBLIC_SUPABASE_URL=
+NEXT_PUBLIC_SUPABASE_ANON_KEY=
+MAPBOX_TOKEN=
+OPENAI_API_KEY=
+
+> ⚠️ Do NOT expose your real API keys publicly.
+> Only the variable names should be added to the README — keep actual values private.
+
