@@ -1,6 +1,6 @@
-# 🌍 WasteEasy – Household Waste-to-Energy Web App
+# 🌍 Ecowise– Household Waste-to-Energy Web App
 
-WasteEasy is a clean, intuitive, and educational web application built to demonstrate how everyday household waste can be converted into renewable energy in simple, safe, and effective ways.  
+Ecowise is a clean, intuitive, and educational web application built to demonstrate how everyday household waste can be converted into renewable energy in simple, safe, and effective ways.  
 
 This project was developed under **Problem Statement AVS311 (Software / Web Development)** by **Team Gadget Geeks**.
 
@@ -221,7 +221,7 @@ The architecture is designed to be **modular, scalable, and easily extendable**.
 <img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/9ff94acc-9e50-46d0-9249-79e620a633c3" />----->
 
 ## 🖼️ VIDEO
-https://v0.app/chat/b/b_17Q5ZMIaV6v?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..aFA14ie3lIOar_qp.ELvCK0Ft8y87ejiAcg-YKSY2VXrCILESnH5fJlZoEDhnaXQkVLZKeG0eNqE.GdqrsDi5nqBU5bcDkUfbFA
+https://youtu.be/TBAY4D5vi44
 ## 🔮 Future Scope
 - 🤖 **Smarter Ecobot with Image Scanning:** Users will be able to scan waste items for instant classification.
 - 🛒 **Expanded EcoShop Marketplace:** Add more eco-friendly brands and product categories.
